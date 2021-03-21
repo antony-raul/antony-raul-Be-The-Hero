@@ -1,0 +1,16 @@
+/**
+ * Metodos HTTP
+ * 
+ * GET: Buscar um informação no back-end
+ * POST Cria uma informação no back-end
+ * PUT: Altera uma informação no back-end
+ * DELETE: Deletar uma informação no back-end
+ */
+
+/**
+ * tipos de parametros:
+ * 
+ * Query: parametros nomeados enviados na rota apos o simbolo ? (filtros, paginação)
+ * Route: parametros para indentificar recursos
+ * Body: corpo da requisição ultilizado para criar ou altera recurso
+ */
